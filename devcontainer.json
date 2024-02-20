@@ -1,0 +1,5 @@
+{
+    "name": "My Dev Container",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [3000]
+  }
